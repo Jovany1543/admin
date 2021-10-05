@@ -74,7 +74,6 @@
     "react-beautiful-dnd": "^11.0.4",
     "react-big-calendar": "^0.24.6",
     "react-copy-to-clipboard": "^5.0.3",
-    "react-dev-utils": "^10.2.1",
     "react-dom": "^16.8.6",
     "react-dropzone": "^11.3.2",
     "react-google-maps": "^9.4.5",
@@ -157,7 +156,8 @@
     "husky": "^7.0.0",
     "lint-staged": "^11.0.1",
     "prettier": "^2.3.1",
-    "react-app-rewired": "^2.1.6"
+    "react-app-rewired": "^2.1.6",
+    "react-dev-utils": "^10.2.1"
   },
   "jest": {
     "roots": [
